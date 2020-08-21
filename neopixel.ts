@@ -44,6 +44,9 @@ namespace neopixel {
     /**
      * A NeoPixel strip
      */
+    //% shim=sendBufferAsm
+    function sendBuffer(buf: Buffer, pin: DigitalPin) {
+    }
     export class Strip {
         buf: Buffer;
         pin: DigitalPin;
