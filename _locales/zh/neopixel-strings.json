@@ -29,9 +29,9 @@
   "neopixel.Strip.showRainbow|block": "%strip|显示彩虹特效 （色相）从%startHue|到%endHue",
   "neopixel.Strip.show|block": "%strip|刷新显示",
   "neopixel.colors|block": "%color",
-  "neopixel.create|block": "流光溢彩灯连接引脚%pin|初始化灯带|%numleds|颗LED（模式%mode|）",
+  "neopixel.create|block": "彩虹灯连接引脚%pin|初始化灯带|%numleds|颗LED（模式%mode|）",
   "neopixel.hsl|block": "色相 %h|饱和度 %s|亮度 %l",
   "neopixel.rgb|block": "RGB（红%red|绿%green|蓝%blue|）",
-  "neopixel|block": "流光溢彩灯",
-  "{id:category}Neopixel": "流光溢彩灯"
+  "neopixel|block": "彩虹灯",
+  "{id:category}Neopixel": "彩虹灯"
 }
