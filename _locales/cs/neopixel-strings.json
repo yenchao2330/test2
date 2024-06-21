@@ -29,7 +29,7 @@
   "neopixel.Strip.showRainbow|block": "%strip|ukaž duhu od %startHue|do %endHue",
   "neopixel.Strip.show|block": "%strip|ukaž",
   "neopixel.colors|block": "%color",
-  "neopixel.create|block": "NeoPixel na pinu %pin|s %numleds|ks LED %mode",
+  "neopixel.create|block": "NeoPixel na pinu %pin|pásek s %numleds|ks LED v módu %mode",
   "neopixel.hsl|block": "odstín %h|saturace %s|jas %l",
   "neopixel.rgb|block": "červená %red|zelená %green|modrá %blue",
   "neopixel|block": "neopixel",
