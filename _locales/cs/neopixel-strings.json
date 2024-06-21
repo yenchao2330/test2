@@ -25,7 +25,7 @@
   "neopixel.Strip.setPixelWhiteLED|block": "%strip|nastav bílý LED pixel od %pixeloffset|do %white",
   "neopixel.Strip.shift|block": "%strip|posuň pixely o %offset",
   "neopixel.Strip.showBarGraph|block": "%strip|ukaž čárový graf od %value|up do %high",
-  "neopixel.Strip.showColor|block": "%strip|sukaž barvu %rgb=neopixel_colors",
+  "neopixel.Strip.showColor|block": "%strip|ukaž barvu %rgb=neopixel_colors",
   "neopixel.Strip.showRainbow|block": "%strip|ukaž duhu od %startHue|do %endHue",
   "neopixel.Strip.show|block": "%strip|ukaž",
   "neopixel.colors|block": "%color",
